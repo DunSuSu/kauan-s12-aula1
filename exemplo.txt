@@ -1,2 +1,2 @@
-qualquer coisa
-qualquercoisa
+linha alterada
+segunda linha
